@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Juz \'Amma</string>
+
+    <string-array name="nama_surah_pendek">
+        <item>Asy-Syams</item>
+        <item>Al-Insyiroh</item>
+        <item>Al-Lail</item>
+        <item>Ad-Duha</item>
+        <item>At- Tiin</item>
+        <item>Al-Alaq</item>
+        <item>Al-Qodr</item>
+        <item>Al-Bayyinah</item>
+        <item>Al-Zalzalah</item>
+        <item>Al-Adiyat</item>
+    </string-array>
+
+    <string-array name="nama_surah_panjang">
+        <item>An-Naba</item>
+        <item>an-Naziat</item>
+        <item>Abasa</item>
+        <item>At-Takwir</item>
+        <item>Al-Infithor</item>
+        <item>Al-Mutafifin</item>
+        <item>Al-Insyiqoq</item>
+        <item>Al-Buruj</item>
+        <item>At_Thariq</item>
+        <item>Al-Ala</item>
+    </string-array>
+
+    <string-array name="isi_surah_pendek">
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+    </string-array>
+
+    <string-array name="isi_surah_panjang">
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+        <item>بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</item>
+    </string-array>
+</resources>

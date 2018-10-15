@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btnSurahPendek"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="Surah Pendek"
+        android:layout_marginBottom="50dp"/>
+
+    <Button
+        android:id="@+id/btnSurahPanjang"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="Surah Panjang"
+        android:layout_marginBottom="50dp"
+        android:layout_below="@+id/btnSurahPendek"/>
+
+
+
+</RelativeLayout>
